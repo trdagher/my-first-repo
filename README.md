@@ -1,3 +1,1 @@
-# my-first-repo
-first public repo
-readme is edited manually.THIS FILE WAS MODIFIED LOCALLY 
+this line was modfied manually during conflict
